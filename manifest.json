@@ -1,0 +1,15 @@
+{
+    "version":"1.0",
+    "manifest_version":3,
+    "name":"To Do List",
+    "description":"A Simple To do list",
+    "author":"Archit Agrawal",
+    "permissions":["storage"],
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"icon48.png"
+        ,       
+        "default-title":"To_do_list"
+    }
+
+}
